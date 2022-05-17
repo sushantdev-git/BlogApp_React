@@ -1,0 +1,14 @@
+.BlogsPage{
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.BlogLists{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

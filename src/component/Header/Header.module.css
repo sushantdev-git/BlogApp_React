@@ -1,0 +1,41 @@
+.Header{
+    width: 100%;
+    background-color: lightgreen;
+    height: 70px;
+    position: sticky;
+    top: 0;
+}
+
+.BlogsHeader{
+    display: flex;
+    justify-content: end;
+}
+
+.BlogsHeader button{
+    height: 50px;
+    margin: 5px;
+}
+
+.CreateHeader{
+    display: flex;
+    justify-content: start;
+}
+
+.CreateHeader button{
+    height: 50px;
+    margin: 5px;
+}
+
+.BlogHeader{
+    display: flex;
+    justify-content: space-between
+}
+
+.BlogHeader div{
+    margin: 5px;
+}
+
+.BlogHeader div button{
+    height: 50px;
+    margin: 5px;
+}
